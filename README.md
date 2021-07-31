@@ -12,3 +12,5 @@ Please delete the corresponding repository from your github account
 **checkout the CLI**
 
 <a href='ishita1805/ResuME-Ishita-Kabra' target='__blank'>ResuME</a>
+
+**your ResuMe is deployed at:** https://ishita1805.github.io/ResuMe-Vedant-Tibrewal
